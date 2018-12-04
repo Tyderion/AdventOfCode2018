@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode2018",
+  "version": "1.0.0",
+  "description": "My solutions for this years [Advent of Code](https://adventofcode.com/2018)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 01.js",
+    "start2": "node 02.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyderion/AdventOfCode2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyderion/AdventOfCode2018/issues"
+  },
+  "homepage": "https://github.com/Tyderion/AdventOfCode2018#readme"
+}
